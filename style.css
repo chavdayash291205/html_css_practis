@@ -1,0 +1,240 @@
+ h1{
+    background-color: aquamarine;
+}
+
+.p{
+    background-color: antiquewhite;
+}
+
+#i{
+    background-color: beige;
+} 
+body {
+    text-align: center;
+    background-color: rgb(199, 98, 9);
+}
+@media screen and (min-width:720px) {
+    body{
+        text-align: end;
+    background-color: rgb(100, 184, 120);
+    }
+    
+}
+
+
+
+h1, p, table, form{ 
+    background-color: aqua;
+    
+}*/
+ table{ 
+    display: flex;
+    justify-content: center;
+
+    
+    
+
+ }
+form{
+    text-align: center;
+    border: solid brown 3px;
+    width: 348px;
+    height: 400px;
+    margin-top: 64px;
+    padding: 20px;
+    padding-top: 30px;
+    background-color: rgba(165, 42, 42, 0.663);
+    margin-left: 548px;
+
+    
+
+}
+
+h1{
+    text-align: center;
+}
+.yash {
+    margin-left: 400px;
+}
+
+.yash0 {
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+}
+
+.raj {
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+}
+
+.sujal {
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+}
+
+.yash1 {
+    background-color: rgb(2, 72, 6);
+    display: flex;
+    flex-direction: row;
+    height: 200px;
+    width: 200px;
+}
+
+.red {
+    background-color: red;
+    height: 80px;
+    width: 80px;
+    margin-left: 10px;
+    margin-top: 50px;
+}
+
+.blue {
+    background-color: blue;
+    height: 80px;
+    width: 80px;
+    margin-left: 10px;
+    margin-top: 50px;
+    opacity: 1;
+}
+
+.yash2 {
+    background-color: rgb(26, 194, 110);
+    height: 200opx;
+    width: 200px;
+    margin-left: 40px;
+    text-align: center;
+}
+
+.yash3 {
+    background-color: rgb(30, 231, 174);
+    height: 200px;
+    width: 200px;
+    display: flex;
+    flex-direction: row;
+    margin-left: 40px;
+}
+
+.yellow {
+    background-color: yellow;
+    height: 80px;
+    width: 80px;
+    margin-top: 50px;
+    margin-left: 10px;
+}
+
+.green {
+    background-color: green;
+    height: 80px;
+    width: 80px;
+    margin-left: 10px;
+    margin-top: 50px;
+}
+
+.raj1 {
+    background-color: chocolate;
+    height: 200px;
+    width: 200px;
+}
+
+.raj2 {
+    background-color: indigo;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 40px;
+}
+
+.brown {
+    background-color: brown;
+    height: 80px;
+    width: 80px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.sky_blue {
+    background-color: skyblue;
+    height: 80px;
+    width: 80px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.raj3 {
+    background-color: gold;
+    height: 200px;
+    width: 200px;
+    margin-left: 40px;
+}
+
+.pratik {
+    background-color: aqua;
+    height: 200px;
+    width: 400px;
+    display: flex;
+    margin-top: 20px;
+    margin-left: 120px;
+}
+
+.pratik2 {
+    background-color: blueviolet;
+    height: 80px;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    margin-left: 120px;
+}
+
+.sujal1 {
+    background-color: rgb(211, 38, 38);
+    height: 200px;
+    width: 200px;
+    display: flex;
+    margin-left: 100px;
+}
+
+.black {
+    background-color: black;
+    height: 80px;
+    width: 80px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+    margin-top: 60px;
+}
+
+.sujal3 {
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    margin-left: 120px;
+}
+
+.pink {
+    background-color: pink;
+    width: 80px;
+    height: 80px;
+    margin-left: 50px;
+    margin-top: 60px;
+    display: flex;
+    flex-direction: column;
+
+
+
+@media screen and (max-width: 480px) {
+    body {
+        background-color: lightgreen;
+    }
+}
